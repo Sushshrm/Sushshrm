@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning payroll implementation and transition
 - 💞️ I’m looking to collaborate on payroll implementation
 - 📫 How to reach me ... sushantshrm6@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...sushi
+- ⚡ Fun fact: ...be noted that we release your pay 
 
 <!---
 Sushshrm/Sushshrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
